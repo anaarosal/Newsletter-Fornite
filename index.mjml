@@ -1,0 +1,38 @@
+<mjml>
+    <mj-head>
+        <mj-title>Fornite</mj-title>
+        <mj-attributes>
+            <mj-all padding="3px">
+            <mj-text color="white">
+            
+            
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#4a6c96">
+        <mj-section>
+            <mj-column width="100%" >
+                <mj-text align="center" color="white" font-size="11px" font-weight="100"> Si no visualiza correctamente el email, haga click </mj-text><mj-button>aquí</mj-button>  
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="200px">
+                <mj-image src="img/logo.jpg">
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image width="900px" src="img/fornite.jpg" align="center">
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="white" font-size="11px" font-weight="100" >Fornite © 2018</mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-text align="right" color="white" font-size="11px" font-weight="100">Para darse de baja, haga click </mj-text><mj-button>aquí</mj-button>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
+
+
